@@ -9,7 +9,7 @@ This is inspired by [GoUsers · golang/go Wiki](https://github.com/golang/go/wik
 
 | CompanyName   | Contry        | Purpose of use | Ref  |
 | ------------- |:-------------:|------------|-----|
-| [Livesense Lnc.](https://www.livesense.co.jp/) | Japan			| Recommendation engine | [Julia によるレコメンドアルゴリズム実装 \- Speaker Deck](https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang)|
+| [Livesense Inc.](https://www.livesense.co.jp/) | Japan			| Recommendation engine | [Julia によるレコメンドアルゴリズム実装 \- Speaker Deck](https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang)|
 
 
 # License
