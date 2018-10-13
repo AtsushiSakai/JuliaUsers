@@ -7,7 +7,7 @@ This is inspired by [GoUsers · golang/go Wiki](https://github.com/golang/go/wik
 
 # Julia Users
 
-|| CompanyName   | Contry        | Purpose of use | Ref  |
+|| Company name   | Country        | Purpose of use | Ref  |
 |-| ------------- |:-------------:|------------|-----|
 |1| [Livesense Inc.](https://www.livesense.co.jp/) | Japan			| Recommendation engine | [Julia によるレコメンドアルゴリズム実装 \- Speaker Deck](https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang)|
 |2| [Tangent Works](http://www.tangent.works/)|Belgium| Real time energy forecasting system|[Real Time Energy Forecasting – Julia Computing](https://juliacomputing.com/case-studies/tangent-works.html)|
