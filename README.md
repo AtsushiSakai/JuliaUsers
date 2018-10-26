@@ -12,7 +12,7 @@ This is inspired by [GoUsers · golang/go Wiki](https://github.com/golang/go/wik
 |1| [Livesense Inc.](https://www.livesense.co.jp/) | Japan			| Recommendation engine | [Julia によるレコメンドアルゴリズム実装 \- Speaker Deck](https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang)|
 |2| [Tangent Works](http://www.tangent.works/)|Belgium| Real time energy forecasting system|[Real Time Energy Forecasting – Julia Computing](https://juliacomputing.com/case-studies/tangent-works.html)|
 |3| [Aviva plc](https://www.aviva.com/)|UK|Risk modeling system for insurance|[Aviva Solvency II Compliance – Julia Computing](https://juliacomputing.com/case-studies/aviva.html)|
-
+|4| [TSUTAYA](https://tsutaya.ai/)|Japan|Movie recommendation system|[#TSUTAYA_AI はJuliaで動いています。是非Juliaの速度を体感ください。  #JuliaTokyo](https://twitter.com/hyper0dietter/status/1053641348903919616)|
 
 # License
 
