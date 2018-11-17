@@ -15,6 +15,7 @@ This is inspired by [GoUsers · golang/go Wiki](https://github.com/golang/go/wik
 |4| [TSUTAYA](https://tsutaya.ai/)|Japan|Movie recommendation system|[#TSUTAYA_AI はJuliaで動いています。是非Juliaの速度を体感ください。  #JuliaTokyo](https://twitter.com/hyper0dietter/status/1053641348903919616)|
 |5| [McAfee](https://www.mcafee.com/en-us/index.html)|USA| ? |[What companies use the Julia programming language? \- Quora](https://www.quora.com/What-companies-use-the-Julia-programming-language)|
 |6| [Facebook](https://www.facebook.com/)|USA| ? |[What companies use the Julia programming language? \- Quora](https://www.quora.com/What-companies-use-the-Julia-programming-language)|
+|7| [Location\-Based Services for the Autonomous Future](https://www.here.com/en)|Switzerland| Data analysis platform |[Lead Data Engineer – Big Data Research Platform \(Zurich Lab\) m/f/x \| HERE Technologies \| LinkedIn](https://www.linkedin.com/jobs/view/950447986/)|
 
 # License
 
