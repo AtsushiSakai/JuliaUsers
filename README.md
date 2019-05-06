@@ -16,6 +16,7 @@ This is inspired by [GoUsers · golang/go Wiki](https://github.com/golang/go/wik
 |5| [McAfee](https://www.mcafee.com/en-us/index.html)|USA| ? |[What companies use the Julia programming language? \- Quora](https://www.quora.com/What-companies-use-the-Julia-programming-language)|
 |6| [Facebook](https://www.facebook.com/)|USA| ? |[What companies use the Julia programming language? \- Quora](https://www.quora.com/What-companies-use-the-Julia-programming-language)|
 |7| [HERE Technologies](https://www.here.com/en)|Switzerland| Data analysis platform |[Lead Data Engineer – Big Data Research Platform \(Zurich Lab\) m/f/x \| HERE Technologies \| LinkedIn](https://www.linkedin.com/jobs/view/950447986/)|
+|8| [Leuko](https://leuko.io/)|USA| Data analysis for medical device |[Careers — Leuko](https://leuko.io/careers)|
 
 # License
 
